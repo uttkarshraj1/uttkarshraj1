@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Uttkarsh
-- 👀 I’m interested in error handling
-- 🌱 I’m currently polishing my Machine Learning concepts
-- 📫 You can reach me out at my email id: uttkarshraj1@gmail.com
-
+- 👋 Hi, I’m Uttkarsh, an Analyst
+- 👀 I’m interested in deploying products with right dev tools withput any bug/error
+- 📫 You can reach me out at my email id: uttkarshraj1@gmail.com 
